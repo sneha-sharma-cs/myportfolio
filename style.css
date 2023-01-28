@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(33, 31, 31);
+}
+.navbar{
+    color: white;
+}
+.my-prof{
+height: 450px;
+width: 100%;
+}
+
+.About{
+    font-size: 50px;
+    color: antiquewhite;
+    text-align: center;
+}
+p{
+    color: bisque;
+}
+.name{
+    font-weight: bold;
+    text-decoration: underline;
+}
